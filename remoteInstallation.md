@@ -156,3 +156,5 @@ Kasm Manager Token
 ------------------------------------
 
 </pre>
+
+[<< Home](./README.md)

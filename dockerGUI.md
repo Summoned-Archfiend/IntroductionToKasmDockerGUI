@@ -185,8 +185,11 @@ docker run -ti --rm -e DISPLAY=$DISPLAY firefox
 </code>
 </pre>
 
-If you want your container to persist data you will need to find all the locations where the specific application stores data and mount these as volumes to the container. 
+If you want your container to persist data you will need to find all the locations where the specific application stores data and mount these as volumes to the container.
 
 ### VNC Server
 
 An alternative to this is to use a VNC server. This is the solution Kasm itself uses. To conclude, the preferred approach for most users is to likely utilise Kasm as a remote service. This is by far a more practiced and secure approach than we can configure plainly by ourselves. Due to it's large community and business usage Kasm will likely always have better security practices than we can implement ourselves, as fun as it is to play with these things, sometimes the simplest solution is best.
+
+
+[<< Home](./README.md)

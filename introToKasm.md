@@ -15,3 +15,6 @@ Kasm simplifies this, by installing Kasm on a remote server we can access it fro
 ___
 
 Learn About the X Window System [Here](https://en.wikipedia.org/wiki/X_Window_System)
+
+
+[<< Home](./README.md)
